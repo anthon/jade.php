@@ -1,5 +1,5 @@
 ## OBS!
-This is a fork of [jade.php](https://github.com/everzet/jade.php), fixing the issue with PHP 5.5 and preg_match needing hyphens to be at the end of a group (issue logged [here](https://github.com/everzet/jade.php/issues/16), kind of).
+This is a fork of [jade.php](https://github.com/everzet/jade.php), fixing the issue with PHP 5.5 and preg_match needing hyphens to be escaped or placed at the beginning or end of a catch group (issue logged [here](https://github.com/everzet/jade.php/issues/16), kind of).
 
 Below the official readme.
 
