@@ -1,5 +1,6 @@
 {
     "name": "pagon/jade",
+    "version": "1.0.1",
     "description": "Jade.php",
     "keywords": ["jade", "jade.php", "template"],
     "license": "MIT",
